@@ -1,0 +1,29 @@
+h1{
+    color: rgb(213, 223, 201);
+    text-align: center;
+    font-size: 60px;
+}
+img{
+    width: 50%;
+}
+a{
+    color: rgb(16, 177, 231);
+    text-decoration: none;
+}
+.호우{
+    background-color: lightpink;
+}
+.오우{
+    background-color: lightsalmon;
+}
+#grid{
+    border-top: solid cornflowerblue 5px;
+    display:grid;
+    grid-template-columns: 30% 70%;
+}
+#no{
+    border-right: solid cornflowerblue 5px;
+}
+#jo{
+    margin-left: 25px;
+}
